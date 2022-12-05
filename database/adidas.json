@@ -1,0 +1,32 @@
+[
+    {
+        "title": "Walking Shoe",
+        "price": 200.99,
+        "id": "1",
+        "image": "../images/adidas/adidas_2.jpeg"
+    },
+    {
+        "title": "Lifestyle",
+        "price": 200.99,
+        "id": "2",
+        "image": "../images/adidas/adidas_3.jpeg"
+    },
+    {
+        "title": "Casual Wear",
+        "price": 200.99,
+        "id": "3",
+        "image": "../images/adidas/adidas_4.jpeg"
+    },
+    {
+        "title": "LifeStyle",
+        "price": 200.99,
+        "id": "4",
+        "image": "../images/adidas/adidas_5.jpeg"
+    },
+    {
+        "title": "Running Shoe",
+        "price": 200.99,
+        "id": "5",
+        "image": "../images/adidas/adidas_1.jpeg"
+    }
+]

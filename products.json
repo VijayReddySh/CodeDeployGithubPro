@@ -1,0 +1,74 @@
+[
+  {
+    "title": "Galaxy S10 5G",
+    "price": 910.99,
+    "id": "1",
+    "image": "./images/product-1.jpeg"
+  },
+  {
+    "title": "Galaxy S10+",
+    "price": 812.99,
+    "id": "2",
+    "image": "./images/product-2.jpeg"
+  },
+  {
+    "title": "Galaxy S10",
+    "price": 712.99,
+    "id": "3",
+    "image": "./images/product-3.jpeg"
+  },
+  {
+    "title": "Galaxy S10e",
+    "price": 622.99,
+    "id": "4",
+    "image": "./images/product-4.jpeg"
+  },
+  {
+    "title": "Galaxy A2 Core",
+    "price": 688.99,
+    "id": "5",
+    "image": "./images/product-5.jpeg"
+  },
+  {
+    "title": "Galaxy M30",
+    "price": 532.99,
+    "id": "6",
+    "image": "./images/product-6.jpeg"
+  },
+  {
+    "title": "Galaxy M20",
+    "price": 545.99,
+    "id": "7",
+    "image": "./images/product-7.jpeg"
+  },
+  {
+    "title": "Galaxy M10",
+    "price": 440.99,
+    "id": "8",
+    "image": "./images/product-8.jpeg"
+  },
+  {
+    "title": "Galaxy A80",
+    "price": 386.99,
+    "id": "9",
+    "image": "./images/product-9.jpeg"
+  },
+  {
+    "title": "Galaxy A70",
+    "price": 378.99,
+    "id": "10",
+    "image": "./images/product-10.jpeg"
+  },
+  {
+    "title": "Galaxy A60",
+    "price": 289.99,
+    "id": "11",
+    "image": "./images/product-11.jpeg"
+  },
+  {
+    "title": "Galaxy A30",
+    "price": 248.99,
+    "id": "12",
+    "image": "./images/product-12.jpeg"
+  }
+]

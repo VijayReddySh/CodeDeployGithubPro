@@ -1,0 +1,32 @@
+[
+    {
+        "title": "Walking Shoe",
+        "price": 200.99,
+        "id": "1",
+        "image": "../images/new_balance/nb_2.jpeg"
+    },
+    {
+        "title": "Lifestyle",
+        "price": 200.99,
+        "id": "2",
+        "image": "../images/new_balance/nb_3.jpeg"
+    },
+    {
+        "title": "Casual Wear",
+        "price": 200.99,
+        "id": "3",
+        "image": "../images/new_balance/nb_4.jpeg"
+    },
+    {
+        "title": "LifeStyle",
+        "price": 200.99,
+        "id": "4",
+        "image": "../images/new_balance/nb_5.jpeg"
+    },
+    {
+        "title": "Running Shoe",
+        "price": 200.99,
+        "id": "5",
+        "image": "../images/new_balance/nb_1.jpeg"
+    }
+]

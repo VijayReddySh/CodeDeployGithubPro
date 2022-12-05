@@ -1,0 +1,32 @@
+[
+    {
+        "title": "Black Nike",
+        "price": 91.99,
+        "id": "11",
+        "image": "../images/nike/nike_1.jpeg"
+    },
+    {
+        "title": "White Nike",
+        "price": 91.99,
+        "id": "12",
+        "image": "../images/nike/nike_2.jpeg"
+    },
+    {
+        "title": "Brown Nike",
+        "price": 91.99,
+        "id": "13",
+        "image": "../images/nike/nike_3.jpeg"
+    },
+    {
+        "title": "Blue Nike",
+        "price": 91.99,
+        "id": "14",
+        "image": "../images/nike/nike_4.jpeg"
+    },
+    {
+        "title": "Grey Nike",
+        "price": 91.99,
+        "id": "15",
+        "image": "../images/nike/nike_5.jpeg"
+    }
+]
